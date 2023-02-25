@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<onlineUpdate>
+<update appId="QuickNotes">
+<version>2.0.0.0</version>
+<url>http://tech-mix.great-site.net/QuickNotes.exe</url>
+<fileName>QuickNotes.exe</fileName>
+<md5>D42B78FB017C1F80B4C1ACF808C376BF</md5>
+<description>add new option</description>
+<launchArgs>a</launchArgs>
+</update>
+</onlineUpdate>
